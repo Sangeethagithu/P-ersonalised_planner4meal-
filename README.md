@@ -1,12 +1,12 @@
 # P-ersonalised_planner4meal-
 
-Our Meal Planner application which allows users to perform CRUD operations :
+Our Personalised planner4meal application which allows users to perform CRUD operations :
  Create a Meal
  Read meals
  Update a meal
  Delete a meal
 
- Objective of ournproject : 
+ Objective of our project : 
 
 - Backend features:
    - initialize backend using npm and install necessary packages
