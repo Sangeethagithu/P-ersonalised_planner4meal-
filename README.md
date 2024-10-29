@@ -1,5 +1,5 @@
 # P-ersonalised_planner4meal-
-Fullstack MERN (MongoDB for database, Express and Node for backend, and React for frontend) 
+
 Our Meal Planner application which allows users to perform CRUD operations :
  Create a Meal
  Read meals
